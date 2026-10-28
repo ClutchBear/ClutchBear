@@ -20,4 +20,4 @@
 - **[batbar](https://github.com/ClutchBear/batbar)** —— 罗技鼠标、蓝牙耳机、2.4G 键盘的实时电量，常驻 Windows 系统托盘，HID++ 2.0 协议，绿色单 exe
 - **[workbuddy-whale-musume](https://github.com/ClutchBear/workbuddy-whale-musume)** —— 鲸鱼娘桌宠的 Rust 原生 Windows 移植版，不依赖 WebView2
 - **两台自建的小机器** —— OCI 东京 / 新加坡，跑自己的服务和一堆定时任务
-- **读书与笔记** —— 大部头欧洲史在读，笔记沉淀在自己的知识库里
+- **读书与笔记** —— 读过《国家为什么会失败》《动物庄园》等；欧洲史主要靠 B站的长视频了解，笔记沉淀在自己的知识库里
