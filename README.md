@@ -8,10 +8,11 @@
 
 | 平台 | 地址 |
 | :--- | :--- |
-| 博客 | [68868686.xyz](https://68868686.xyz) |
-| 知乎 | [@ClutchBear](https://www.zhihu.com/people/ClutchBear) |
-| 掘金 | [信长华](https://juejin.cn/user/3139860937339550) |
-| 哔哩哔哩 | [space.bilibili.com/477341](https://space.bilibili.com/477341) |
+| 博客 | [伩刃](https://68868686.xyz) |
+| 知乎 | [伩心](https://www.zhihu.com/people/ClutchBear) |
+| 掘金 | [伩刃](https://juejin.cn/user/3139860937339550) |
+| 哔哩哔哩 | [伩刃](https://space.bilibili.com/477341) |
+| Linux.do | [伩刃](https://linux.do/u/clutchbear) |
 | 邮箱 | skywater@gmail.com |
 
 ## 在折腾的东西
